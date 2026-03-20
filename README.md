@@ -4,9 +4,7 @@ A fleet management system built to catch revenue theft through odometer triangul
 
 ## 🚀 Quick Links
 - **Live App**: [https://vigil247.app](https://vigil247.app)
-- **API**: [https://api.vigil247.app](https://api.vigil247.app)
-- **Frontend Repo**: [vigil-frontend](https://github.com/danielnii/vigil-frontend)
-- **Backend Repo**: [vigil-backend](https://github.com/danielnii/vigil-backend)
+
 
 ## 📋 Project Status: Phase 1 Complete ✅
 - ✅ MVP deployed to production
@@ -31,5 +29,5 @@ A fleet management system built to catch revenue theft through odometer triangul
 | Role | Email | Password | Permissions |
 |------|-------|----------|-------------|
 | Admin | addo@vigil.com | ********* | Full access |
-| Demo | demo@vigil.com | demo123 | Read-only admin |
+| Demo | demo@vigil.com | vigil123 | Read-only admin |
 | Driver | john.driver@vigil.com | vigil123 | Start/end shifts |
